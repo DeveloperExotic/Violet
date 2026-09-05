@@ -1,10 +1,10 @@
-# Violet
+# Violet (in development, not released YET)
 
 > **A Chrome browser that removes bullshit and adds useful stuff.**
 
 Violet is a Chromium-based browser focused on **performance, privacy, customization, and user control**.
 
-![](https://raw.githubusercontent.com/DeveloperExotic/Violet/refs/heads/main/preview.png)
+![](https://raw.githubusercontent.com/DeveloperExotic/Violet/refs/heads/main/violet.png)
 
 ## Features
 
